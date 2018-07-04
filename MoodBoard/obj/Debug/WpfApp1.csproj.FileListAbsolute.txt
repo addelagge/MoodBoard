@@ -1,0 +1,15 @@
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\App.g.cs
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\MainWindow.baml
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Visual Studio 2017\Projects\PhotoApp\WpfApp1\obj\Debug\WpfApp1.pdb

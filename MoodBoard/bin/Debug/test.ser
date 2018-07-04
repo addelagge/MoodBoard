@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfImageFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImageFile>
+    <Path>C:\IMAG0014.jpg</Path>
+    <Left>285</Left>
+    <Top>104</Top>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Name>image1</Name>
+  </ImageFile>
+  <ImageFile>
+    <Path>C:\IMAG0014.jpg</Path>
+    <Left>672</Left>
+    <Top>398</Top>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Name>image3</Name>
+  </ImageFile>
+</ArrayOfImageFile>

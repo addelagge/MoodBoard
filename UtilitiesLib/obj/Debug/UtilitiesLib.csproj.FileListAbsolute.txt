@@ -1,0 +1,22 @@
+C:\Visual Studio 2017\Projects\PhotoApp\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\PhotoApp\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Visual Studio 2017\Projects\PhotoApp\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2017\Projects\PhotoApp\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\PhotoApp\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Visual Studio 2017\Projects\MoodBoardApp\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\MoodBoardApp\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Visual Studio 2017\Projects\MoodBoardApp\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2017\Projects\MoodBoardApp\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Visual Studio 2017\Projects\MoodBoardApp\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.csprojResolveAssemblyReference.cache
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Users\frla05\Downloads\MoodBoard-master\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.pdb
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\bin\Debug\UtilitiesLib.dll
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\bin\Debug\UtilitiesLib.pdb
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.csprojResolveAssemblyReference.cache
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.dll
+C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\UtilitiesLib\obj\Debug\UtilitiesLib.pdb

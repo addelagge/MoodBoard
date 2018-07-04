@@ -1,0 +1,34 @@
+﻿<Window x:Class="MoodBoardApp.SizeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoodBoardApp"
+        mc:Ignorable="d"
+        Title="Ändra bildstorlek" Height="150" Width="250">
+    <Grid>
+        <StackPanel>
+            <WrapPanel Margin="5,15,5,5">
+                <TextBlock Width="40">Höjd</TextBlock>
+                <TextBox Name="txtHeight" Width="70"></TextBox>
+            </WrapPanel>
+            
+            <WrapPanel Margin="5">
+                <TextBlock Width="40">Bredd</TextBlock>
+                <TextBox Name="txtWidth" Width="70"></TextBox>
+            </WrapPanel>
+            
+            <WrapPanel Margin="31,5,5,5">
+                <Button Content="Ok" Width="60" Name="btnOk" Click="btnOk_Click" IsDefault="True">
+                    <Button.IsEnabled>
+                        <MultiBinding Converter="{StaticResource multiconverter}">
+                            <Binding ElementName="txtWidth" Path="Text" Converter="{StaticResource isDoubleConverter}"></Binding>
+                            <Binding ElementName="txtHeight" Path="Text" Converter="{StaticResource isDoubleConverter}"></Binding>
+                        </MultiBinding>
+                    </Button.IsEnabled>
+                </Button>
+                <Button Content="Avbryt" Width="60" Margin="5,0,0,0" Name="btnCancel" Click="btnCancel_Click"></Button>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>
