@@ -79,3 +79,23 @@ C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\MoodBoard\obj\De
 C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\MoodBoard\obj\Debug\MoodBoardApp.csproj.CoreCompileInputs.cache
 C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\MoodBoard\obj\Debug\MoodBoardApp.exe
 C:\Users\frla05\Downloads\MoodBoard-master (1)\MoodBoard-master\MoodBoard\obj\Debug\MoodBoardApp.pdb
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\bin\Debug\MoodBoardApp.exe.config
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\bin\Debug\MoodBoardApp.exe
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\bin\Debug\MoodBoardApp.pdb
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\bin\Debug\UtilitiesLib.dll
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\bin\Debug\UtilitiesLib.pdb
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MainWindow.g.cs
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\SizeWindow.g.cs
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\App.g.cs
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp_MarkupCompile.cache
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp_MarkupCompile.lref
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\App.baml
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MainWindow.baml
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\SizeWindow.baml
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.g.resources
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.Properties.Resources.resources
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.csproj.GenerateResource.Cache
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.exe
+H:\Visual Studio 2017\Projects\MoodBoard\MoodBoard\obj\Debug\MoodBoardApp.pdb

@@ -9,6 +9,9 @@ using UtilitiesLib;
 
 namespace MoodBoardApp
 {
+    /// <summary>
+    /// Class for making moodboard
+    /// </summary>
     public class MoodBoard
     {
         /// <summary>
