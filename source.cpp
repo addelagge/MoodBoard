@@ -21,5 +21,6 @@ int main()
  x = y = 0;
  float f = 0.0f;
  //gitbash added comments
+ //ubuntu added comment
  return 0;
 }
