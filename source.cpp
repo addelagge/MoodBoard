@@ -16,5 +16,6 @@ void Calculate(int x, int)
 }
 int main()
 {
-
+    cout << "Hello world";
+    return 0;
 }
