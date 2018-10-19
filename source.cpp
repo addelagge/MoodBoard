@@ -19,6 +19,7 @@ int main()
  cout << "Hello world";
  int x, y;
  x = y = 0;
- float f = 0.0f;:
+ float f = 0.0f;
+ //gitbash added comments
  return 0;
 }
