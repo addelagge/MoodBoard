@@ -19,5 +19,6 @@ int main()
  cout << "Hello world";
  int x, y;
  x = y = 0;
+ float f = 0.0f;:
  return 0;
 }
