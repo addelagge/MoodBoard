@@ -3,7 +3,7 @@ using namespace std;
 
 void Foo()
 {
-    cout << "Foos";
+    cout << "Foo";
 }
 
 void Function()
